@@ -45,14 +45,16 @@ View Order History
 5.Generate Sales Reports
 
 🛠️ Technologies Used
-Technology	Purpose
+
 HTML	Frontend Structure
 CSS	Styling
 JavaScript	Client-side Interaction
 PHP / Python	Backend Logic
 MySQL	Database Management
 Apache / XAMPP	Server Environment
+
 🗄️ Database Structure
+
 1️⃣ Users Table
 
 user_id (Primary Key)
