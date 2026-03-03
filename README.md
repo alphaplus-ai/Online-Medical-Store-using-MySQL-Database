@@ -1,5 +1,6 @@
 # Online-Medical-Store-using-MySQL-Database
 he Online Medical Store is a web-based application developed to facilitate the online purchase of medicines and healthcare products. This system allows customers to browse medicines, search for products, upload prescriptions (if required), and place orders conveniently from their homes. The backend database is managed using MySQL.
+
 📌 Project Overview
 
 The Online Medical Store is a web-based application that allows users to purchase medicines and healthcare products online. The system provides an easy-to-use interface for customers and an administrative dashboard for managing medicines, inventory, and orders.
